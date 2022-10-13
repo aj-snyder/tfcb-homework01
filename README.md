@@ -9,3 +9,9 @@
 [Link to Image](https://github.com/aj-snyder/tfcb-homework01/blob/main/casent.0191696_camponotus_darwinii.jpg)
 
 [Link to download data table](https://github.com/aj-snyder/tfcb-homework01/blob/main/survey_data.xlsx)
+
+### exampe embedded table
+| Family names  | Friends names |
+| ------------- | ------------- |
+| Rick  | Tim  |
+| Lorri  | Tyler  |
